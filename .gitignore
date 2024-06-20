@@ -188,3 +188,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+imdb-datasets/ # Ignore the imdb-datasets folder
