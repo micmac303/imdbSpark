@@ -189,5 +189,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-imdb-datasets/large/ # Ignore the imdb-datasets folder
-/imdb-datasets/large/
+/imdb-datasets/large/pwd
+
